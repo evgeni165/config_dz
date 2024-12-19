@@ -1,0 +1,5 @@
+# Конфигурация приложения
+name = "MyApp"
+version = "1.0.0"
+features = ['feature1', 'feature2']
+dependencies = { numpy = "1.19", requests = "2.25" }
